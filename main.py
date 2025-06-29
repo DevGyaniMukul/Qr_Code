@@ -166,7 +166,3 @@ st.caption("""
 ✨ Made by Mukul Sapra
 [LinkdIn](https://www.linkedin.com/in/mukul-sapra-ba31b3372/) | [GitHub](https://github.com/DevGyaniMukul) | mukulsapra123@gmail.com
 """)
-st.markdown("""
-<!-- Plausible Analytics -->
-<script defer data-domain="globalqr.onrender.com" src="https://plausible.io/js/script.js"></script>
-""", unsafe_allow_html=True)
