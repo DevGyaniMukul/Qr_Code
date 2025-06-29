@@ -166,7 +166,10 @@ st.caption("""
 ✨ Made by Mukul Sapra
 [LinkdIn](https://www.linkedin.com/in/mukul-sapra-ba31b3372/) | [GitHub](https://github.com/DevGyaniMukul) | mukulsapra123@gmail.com
 """)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 43e6b72e84112f0860df25e8cec751db143aa1c3
 st.markdown("""
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1PJGQGST5D"></script>
