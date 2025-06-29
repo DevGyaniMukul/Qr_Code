@@ -1,0 +1,4 @@
+pillow==11.2.1
+qrcode==8.2
+streamlit==1.46.1
+
