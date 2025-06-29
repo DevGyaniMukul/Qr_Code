@@ -166,7 +166,6 @@ st.caption("""
 ✨ Made by Mukul Sapra
 [LinkdIn](https://www.linkedin.com/in/mukul-sapra-ba31b3372/) | [GitHub](https://github.com/DevGyaniMukul) | mukulsapra123@gmail.com
 """)
-<<<<<<< HEAD
 st.markdown("""
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1PJGQGST5D"></script>
@@ -178,5 +177,3 @@ st.markdown("""
   gtag('config', 'G-1PJGQGST5D');
 </script>
 """, unsafe_allow_html=True)
-=======
->>>>>>> 55ee477beeb569870b52e7378df364db4d01cb4f
